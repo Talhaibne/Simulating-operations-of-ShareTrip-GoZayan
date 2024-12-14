@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.gozyaan.HandlingClientsAccountsController">
+   <children>
+      <Label layoutX="148.0" layoutY="40.0" prefHeight="27.0" prefWidth="242.0" text="HandelingClientsAccounts">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Button layoutX="498.0" layoutY="41.0" mnemonicParsing="false" onAction="#backButtononclick" prefHeight="26.0" prefWidth="72.0" text="Back" />
+      <Button layoutX="262.0" layoutY="307.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="121.0" text="Confirm" />
+      <TextArea layoutX="75.0" layoutY="84.0" prefHeight="102.0" prefWidth="422.0" />
+      <RadioButton layoutX="83.0" layoutY="215.0" mnemonicParsing="false" text="Accepting" />
+      <RadioButton layoutX="83.0" layoutY="253.0" mnemonicParsing="false" text="Rejecting " />
+   </children>
+</AnchorPane>
