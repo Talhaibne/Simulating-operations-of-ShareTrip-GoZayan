@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.gozyaan.TavelAgentDashboardController">
+   <children>
+      <Label layoutX="200.0" layoutY="20.0" prefHeight="40.0" prefWidth="276.0" text="Travel Agent Dashboard">
+         <font>
+            <Font name="System Bold Italic" size="18.0" />
+         </font>
+      </Label>
+      <Button layoutX="100.0" layoutY="80.0" mnemonicParsing="false" onAction="#EvaluateFlightonclick" prefHeight="40.0" prefWidth="180.0" text="Evaluate Flight" />
+      <Button layoutX="100.0" layoutY="140.0" mnemonicParsing="false" onAction="#TravelReserveonclick" prefHeight="40.0" prefWidth="180.0" text="Travel Reserve" />
+      <Button layoutX="100.0" layoutY="200.0" mnemonicParsing="false" onAction="#SearcgHotelonclick" prefHeight="40.0" prefWidth="180.0" text="Search Hotels" />
+      <Button layoutX="100.0" layoutY="260.0" mnemonicParsing="false" onAction="#Bookingonclick" prefHeight="40.0" prefWidth="180.0" text="Booking" />
+      <Button layoutX="320.0" layoutY="80.0" mnemonicParsing="false" onAction="#ClientAccountonClick" prefHeight="40.0" prefWidth="180.0" text="Clients Accounts" />
+      <Button layoutX="320.0" layoutY="140.0" mnemonicParsing="false" onAction="#TravelInsuranceonclick" prefHeight="40.0" prefWidth="180.0" text="Travel Insurance" />
+      <Button layoutX="320.0" layoutY="200.0" mnemonicParsing="false" onAction="#ManageGrpBooking" prefHeight="40.0" prefWidth="180.0" text="Manage Group Booking" />
+      <Button layoutX="320.0" layoutY="260.0" mnemonicParsing="false" onAction="#TravelAlertscustormeronclick" prefHeight="40.0" prefWidth="180.0" text="Alerts &amp; Customer Service" />
+      <Button layoutX="245.0" layoutY="330.0" mnemonicParsing="false" onAction="#BackButttonOnClick" prefHeight="40.0" prefWidth="110.0" text="Back" />
+   </children>
+</AnchorPane>
