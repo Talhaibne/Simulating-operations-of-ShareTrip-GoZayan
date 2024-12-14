@@ -1,36 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfde87be-1ea3-4dff-9181-d2216eb3c113" name="Changes" comment="" />
+    <list default="true" id="5857a19e-221f-4baf-ad42-00657db0d93a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2q5QEtnZR43ICNZNpbGjGJdPBPh" />
+  <component name="ProjectId" id="2prNaSI95fPIoHibMnPsKOm3W9j" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Asus/Desktop/GoZyaanCode/GoZyaan"
+    "last_opened_file_path": "C:/Users/tasin/Downloads/GoZyaanCodefinal/GoZyaanCode/GoZyaan",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.gozyaan" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bfde87be-1ea3-4dff-9181-d2216eb3c113" name="Changes" comment="" />
-      <created>1733949847823</created>
+      <changelist id="5857a19e-221f-4baf-ad42-00657db0d93a" name="Changes" comment="" />
+      <created>1733520299432</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1733949847823</updated>
+      <updated>1733520299432</updated>
     </task>
     <servers />
   </component>
